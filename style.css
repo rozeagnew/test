@@ -1,0 +1,21 @@
+body {
+  background: lightblue;
+}
+
+ul {
+  display:flex;
+}
+
+li {
+  padding: 70px;
+}
+
+.splashscreen {
+  background: blue;
+  padding: 20px;
+}
+
+.splashscreen > article {
+  background: orange;
+  margin: 20px;
+}
